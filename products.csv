@@ -1,0 +1,83 @@
+SKU;Category;ProductName;Supplier;Cost;Price;Warranty
+INT-8330;Процессоры;Intel Core i9-13900K;Intel;69100;101648,68;24
+INT-2394;Процессоры;Intel Core i7-13700K;Intel;46204;52503,97;24
+INT-2336;Процессоры;Intel Core i5-13600K;Intel;38205;53575,12;36
+INT-1149;Процессоры;Intel Core i3-13100F;Intel;16571;18879,48;36
+INT-2656;Процессоры;Intel Core i9-12900K;Intel;53165;62722,85;24
+INT-6693;Процессоры;Intel Core i7-12700K;Intel;39578;47201,8;24
+AMD-7593;Процессоры;AMD Ryzen 9 7950X;AMD;67768;90017,82;24
+AMD-2223;Процессоры;AMD Ryzen 7 7700X;AMD;37793;46812,28;24
+AMD-5524;Процессоры;AMD Ryzen 5 7600X;AMD;30249;37899,54;12
+AMD-2917;Процессоры;AMD Ryzen 9 5900X;AMD;43567;64626,23;12
+AMD-8455;Процессоры;AMD Ryzen 7 5800X;AMD;26705;35324,09;24
+AMD-8542;Процессоры;AMD Ryzen 5 5600X;AMD;15591;21230,03;12
+ASUS-2758;Видеокарты;ASUS ROG Strix RTX 4090;ASUS;124596;182289,11;36
+MSI-6603;Видеокарты;MSI RTX 4090 Suprim X;MSI;151138;215530,92;36
+GIG-9215;Видеокарты;Gigabyte RTX 4080 Gaming OC;Gigabyte;99954;111875,6;12
+ZOT-3388;Видеокарты;Zotac RTX 4080 AMP Extreme;Zotac;99274;127758,47;24
+ASUS-8854;Видеокарты;ASUS TUF RTX 4070 Ti;ASUS;80654;93828,21;24
+PAL-3420;Видеокарты;Palit RTX 4070 Ti GameRock;Palit;78882;116233,34;36
+MSI-6346;Видеокарты;MSI RTX 4060 Ti Gaming X;MSI;40424;49397,76;24
+GIG-7227;Видеокарты;Gigabyte RTX 4060 Eagle;Gigabyte;36591;41266,6;24
+ASUS-7376;Видеокарты;ASUS RTX 3090 Ti ROG Strix;ASUS;102632;128748,09;36
+MSI-5141;Видеокарты;MSI RTX 3080 Ti Suprim X;MSI;109917;152154,41;24
+ZOT-9146;Видеокарты;Zotac RTX 3070 Ti AMP Holo;Zotac;60563;86278,39;12
+PAL-8927;Видеокарты;Palit RTX 3060 Ti Dual;Palit;36366;48710,77;12
+ASUS-9095;Видеокарты;ASUS Radeon RX 7900 XTX;ASUS;89938;104044,71;12
+GIG-3535;Видеокарты;Gigabyte Radeon RX 7800 XT;Gigabyte;77078;99664,6;24
+MSI-7555;Видеокарты;MSI Radeon RX 7700 XT;MSI;63228;72994,4;12
+ASR-4905;Видеокарты;ASRock Radeon RX 7600;ASRock;34916;43963,63;24
+ASUS-2401;Видеокарты;ASUS Radeon RX 6950 XT;ASUS;71076;79436,48;36
+GIG-6728;Видеокарты;Gigabyte Radeon RX 6800 XT;Gigabyte;70156;104569,95;24
+MSI-4935;Видеокарты;MSI Radeon RX 6700 XT;MSI;51950;74246,66;36
+ASUS-2789;Материнские платы;ASUS ROG Maximus Z790 Hero;ASUS;50225;71190,46;36
+MSI-7667;Материнские платы;MSI MPG Z790 Edge WiFi;MSI;39321;45794,3;12
+GIG-1415;Материнские платы;Gigabyte Z790 Aorus Elite;Gigabyte;29002;41695,63;36
+ASR-8171;Материнские платы;ASRock Z790 Pro RS;ASRock;22196;30939,75;12
+ASUS-1626;Материнские платы;ASUS ROG Crosshair X670E Hero;ASUS;52074;64478,42;36
+MSI-1907;Материнские платы;MSI MAG B650 Tomahawk WiFi;MSI;22209;32854,68;24
+GIG-4168;Материнские платы;Gigabyte B650 Aorus Elite AX;Gigabyte;31399;39788,17;24
+ASR-6928;Материнские платы;ASRock B650E Steel Legend;ASRock;26134;37345,28;24
+ASUS-7595;Материнские платы;ASUS TUF Gaming B550-Plus;ASUS;17214;25818,71;36
+MSI-1219;Материнские платы;MSI B450 Tomahawk Max;MSI;14496;17055,02;24
+KIN-9853;Оперативная память;Kingston Fury Beast 32GB DDR5-6000;Kingston;11802;17289,84;36
+COR-6759;Оперативная память;Corsair Vengeance 32GB DDR5-5600;Corsair;14926;18238,92;24
+GSK-5348;Оперативная память;G.Skill Trident Z5 32GB DDR5-6400;G.Skill;18184;26735,34;36
+KIN-6168;Оперативная память;Kingston Fury Renegade 32GB DDR4-3600;Kingston;8632;9998,53;24
+COR-1113;Оперативная память;Corsair Vengeance RGB Pro 32GB DDR4-3200;Corsair;9409;11325,64;12
+GSK-9846;Оперативная память;G.Skill Ripjaws V 32GB DDR4-3600;G.Skill;9481;10569,19;24
+CRU-9157;Оперативная память;Crucial Ballistix 32GB DDR4-3200;Crucial;9078;10124,39;12
+TGR-7441;Оперативная память;Team Group T-Force Vulcan 16GB DDR4-3200;Team Group;4573;6565,94;36
+KIN-7607;Оперативная память;Kingston ValueRAM 8GB DDR4-2666;Kingston;2226;2625,07;12
+SAM-9332;Накопители;Samsung 990 Pro 2TB NVMe;Samsung;19465;24664,88;24
+WD-1179;Накопители;WD Black SN850X 1TB NVMe;Western Digital;9677;13935,54;24
+SEA-8862;Накопители;Seagate FireCuda 530 1TB NVMe;Seagate;11141;14663,15;36
+KIN-8439;Накопители;Kingston KC3000 1TB NVMe;Kingston;7374;8215,54;12
+CRU-6517;Накопители;Crucial P5 Plus 1TB NVMe;Crucial;8663;12583,25;12
+SAM-3217;Накопители;Samsung 870 Evo 1TB SATA;Samsung;5691;8306,22;12
+WD-1830;Накопители;WD Blue 1TB SATA;Western Digital;4266;5138,73;24
+SEA-2975;Накопители;Seagate IronWolf 4TB NAS;Seagate;10063;11146,82;24
+WD-9658;Накопители;WD Red Plus 4TB NAS;Western Digital;9247;13734,0;24
+COR-3196;Блоки питания;Corsair RM1000x 1000W;Corsair;15929;20027,55;12
+SEA-9404;Блоки питания;Seasonic Prime TX-1000 1000W;Seasonic;23601;28077,49;24
+BQT-8057;Блоки питания;be quiet! Dark Power 13 1000W;be quiet!;26382;29247,57;36
+COR-7678;Блоки питания;Corsair RM850x 850W;Corsair;15687;19706,76;12
+SEA-9857;Блоки питания;Seasonic Focus GX-850 850W;Seasonic;18677;23950,57;12
+CM-3974;Блоки питания;Cooler Master V850 Gold V2 850W;Cooler Master;12435;15353,19;24
+CHF-7680;Блоки питания;Chieftec GPE-700S 700W;Chieftec;6770;9434,24;36
+BQT-4561;Блоки питания;be quiet! System Power 9 600W;be quiet!;5892;8737,39;36
+NZX-6623;Корпуса;NZXT H7 Elite Black;NZXT;14327;16884,23;36
+FRC-4438;Корпуса;Fractal Design Torrent RGB Black;Fractal Design;15994;17894,62;24
+LNL-8297;Корпуса;Lian Li PC-O11 Dynamic;Lian Li;10238;14125,94;24
+CM-2090;Корпуса;Cooler Master MasterBox TD500 Mesh;Cooler Master;11761;15083,83;24
+DCL-2041;Корпуса;Deepcool CH510 Mesh;Deepcool;6635;9607,87;12
+NZX-2751;Корпуса;NZXT H510 Flow;NZXT;10304;15376,84;36
+FRC-2961;Корпуса;Fractal Design Focus G;Fractal Design;7074;8673,21;12
+NOC-6917;Охлаждение;Noctua NH-D15;Noctua;14901;21343,61;24
+BQT-1558;Охлаждение;be quiet! Dark Rock Pro 4;be quiet!;11712;12945,6;36
+DCL-7689;Охлаждение;Deepcool AK620;Deepcool;7011;10352,07;24
+CM-9284;Охлаждение;Cooler Master Hyper 212 Black;Cooler Master;5538;8196,2;24
+COR-2396;Охлаждение;Corsair iCUE H150i Elite Capellix;Corsair;19283;26898,16;24
+NZX-5352;Охлаждение;NZXT Kraken X73;NZXT;16176;24259,66;24
+LNL-8618;Охлаждение;Lian Li Galahad AIO 360;Lian Li;13595;17126,7;24
+DCL-6247;Охлаждение;Deepcool LS720;Deepcool;13764;19066,5;24
